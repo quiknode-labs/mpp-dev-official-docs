@@ -48,7 +48,7 @@
     "@vitejs/plugin-react": "^6",
     "ajv": "8",
     "ajv-formats": "^3.0.1",
-    "happy-dom": "^20.9.0",
+    "happy-dom": "^21.0.4",
     "playwright": "^1.59.1",
     "shiki": "3.22.0",
     "simple-git-hooks": "^2.13.1",
